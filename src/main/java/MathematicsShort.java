@@ -6,7 +6,7 @@ public class MathematicsShort {
         //polmkaRazmera = shortChislo - 1;
         //Система не даст выполнить никое действие(даже -), решение изменить тип или явно указать тип
         short polmkaRazmera;
-        polmkaRazmera = (short)(shortChislo - 1);
+        polmkaRazmera = (short) (shortChislo - 1);
         System.out.println(polmkaRazmera);
     }
 }
